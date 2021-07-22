@@ -1,0 +1,13 @@
+<h3> <b>About This App</b> </h3>
+This app is created by a group of students from the National University of Singapore, for the course DBA3702 Descriptive Analytics with R.
+<br>
+<br> This app is made for drivers in Singapore, with the main feature of providing real-time lots availability and parking rates of various carparks nearby their destination, thus empowering users to make informed choices about which carpark they would like to park at. Drivers are given the option to choose the type of carpark they prefer (HDB or shopping mall carparks).
+<br><br> Additionally, this app includes other relevant information on nearby hotels, hawker centers, shopping malls, HDB/condominium residences, supermarkets, hospitals, schools, tourist attractions, sports, recreational facilities, and public transport stations around their destination location, which are places we felt drivers would be most interested in if they would like to go somewhere else afterwards. Users would also be able to view a 2-hour weather forecast based on the individual town locations in Singapore. 
+<br>
+<h4> <b>How to Use</b> </h4>
+Simply input your destination in the first tab, "Reaching Destination"! This can be done via the drop-down menu, or manual typing. Next, you can choose which type of carpark you prefer to park at, either HDB carpark or shopping mall carpark. Information regarding the nearest 3 carparks' rates, lots availability and distance from your destination will then be displayed.  
+<br><br> Depending on which layers you select, you will be able to see the nearest places of interest from your chosen destination.
+<br><br> Planning your next trip? Click on the second tab, "Planning Before Departure", to input your starting point and select your destination. Information on the travel time needed to drive from your starting point to destination, as well as the corresponding distance will then be made available to you. The predicted number of available lots at the nearest capark by the time you reach your destination would also be provided to you, based on extrapolation from historical lots availability and weather data at your destination.
+<br><br> In the third tab "2-Hour Weather Forecast", you will also be able to view the 2 hour weather forecast for the various towns in Singapore. 
+<br><br> We hope these information would help you make well-informed decisions on the places you decide to visit, and reduce the gap in information in choosing where to park at, so that you will have a pleasant journey throughout.
+<br><br> <h4> <b>Enjoy using our App! :) </b> </h4>
